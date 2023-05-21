@@ -1,3 +1,4 @@
+# Audrey's Brain 🧠 
 ### Hi there 👋
 
 <!--
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Github.
+- 🤔 I’m looking for help with interview preparation.
+- 💬 Ask me about dogs, traveling, books, music, and food!
+- 📫 How to reach me: @audreymarthin or audreymarthin22@mail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I almost fell from the escalator once.
