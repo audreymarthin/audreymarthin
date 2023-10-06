@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Github.
+- 🌱 I aspire to be a Software Engineer.
 - 🤔 I’m looking for help with interview preparation.
 - 💬 Ask me about dogs, traveling, books, music, and food!
-- 📫 How to reach me: @audreymarthin or audreymarthin22@mail.com
-- 😄 Pronouns: she/her
+- 📫 How to reach me: @audreymarthin or audreymarthin22@mail.com.
+- 😄 Pronouns: she/her.
 - ⚡ Fun fact: I almost fell from the escalator once.
