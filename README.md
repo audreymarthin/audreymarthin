@@ -6,4 +6,4 @@
 - 📫 How to reach me: @audreymarthin or audreymarthin22@mail.com.
 - 😄 Pronouns: she/her.
 - Founder of the first Google Developer Student Clubs chapter at Whitman College.  
-- I am interested in Summer 2024 SWE opportunities! 
+- Currently looking for Summer 2024 SWE Internship opportunities! 
