@@ -1,24 +1,9 @@
 # Audrey's Brain 🧠 
 ### Hi there 👋
 
-<!--
-**audreymarthin/audreymarthin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🌱 I aspire to be a Software Engineer.
-- 🤔 I’m looking for help with interview preparation.
-- 💬 Ask me about dogs, traveling, books, music, and food!
+- 🌱 I aspire to be a future Software Engineer.
+- 💬 My hobbies are dogs, traveling, books, music, and food!
 - 📫 How to reach me: @audreymarthin or audreymarthin22@mail.com.
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: I almost fell from the escalator once.
+- Founder of the first Google Developer Student Clubs chapter at Whitman College.  
+- I am interested in Summer 2024 SWE opportunities! 
