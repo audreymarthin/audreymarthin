@@ -1,4 +1,4 @@
-# Audrey's Brain 🧠 
+# Audrey Marthin 
 ### Hi there 👋
 
 - 🌱 I aspire to be a future Software Engineer.
